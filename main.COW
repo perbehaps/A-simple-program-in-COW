@@ -5,7 +5,7 @@ MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO
 MoOMoOMoOMoOMoOMoOMoO                                               ;we execute MoO 87 times so value of the current block is now 87
 Moo                                                                 ;when we run the Moo command it prints out the ASCII charater of the respective value in the block.(in this case, 87 is 'W')
 moO                                                                 ;then we use the moO command to move over to the next block
-MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO        ;we repeat this for every single character in the string we want to print out
+MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO        ;we repeat this for every single character in the string we want to print out. yes it is a very tedious process and hence, a lot of fun :)
 MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO
 MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO
 MoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoOMoO
