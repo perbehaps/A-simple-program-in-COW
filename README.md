@@ -1,5 +1,5 @@
-# A-simple-program-in-COW.
-## Made for an LHD:Build challenge.
+# A-simple-program-in-COW
+## Made for an LHD:Build challenge
 The COW programming language is a [Turing Tarpit](https://en.wikipedia.org/wiki/Turing_tarpit) language that works like a turing machine. It is a variant of the popular esolang [Brainf**k](https://esolangs.org/wiki/Brainfuck). If you're new to COW then follow along the comments in the code to understand some of the basics.
 Here are some resources if you want to learn more.
 
