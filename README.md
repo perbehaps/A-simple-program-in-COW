@@ -10,3 +10,5 @@ A Great video on [COW](https://www.youtube.com/watch?v=px2aSX02pqE).
 An online javascript [COW compiler](https://frank-buss.de/cow.html).
 
 [Read about COW](https://esolangs.org/wiki/COW) in the esolang wiki.
+
+[Here's](https://bigzaphod.github.io/COW/semantics-cow-english.pdf) a great proof of COW's turing completeness.
